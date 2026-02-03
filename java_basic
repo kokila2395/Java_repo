@@ -1,0 +1,15 @@
+What is Java?
+
+Java is a high-level, object-oriented programming language.
+
+It is platform independent because Java code runs on the JVM (Java Virtual Machine).
+
+Java follows the principle “Write Once, Run Anywhere.”
+
+  Java Program Structure
+
+Class – Blueprint of an object.
+
+main() method – Entry point of Java program.
+
+Statements – Instructions written inside methods.
